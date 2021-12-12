@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intellias Test Task</string>
+    <string name="main_word">Word: %s</string>
+    <string name="main_phonetic">Phonetic: %s</string>
+    <string name="main_meanings">Meanings</string>
+    <string name="main_til_search_hint">Enter word here</string>
+    <string name="main_btn_search">Search</string>
+    <string name="nothing"> </string>
+    <string name="meanings">Meanings</string>
+</resources>
